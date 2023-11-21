@@ -1,0 +1,136 @@
+ncverilog: 15.20-s039: (c) Copyright 1995-2017 Cadence Design Systems, Inc.
+TOOL:	ncverilog	15.20-s039: Started on Jul 15, 2020 at 11:34:41 CST
+ncverilog
+	testfixture.v
+	+define+MD4
+	+access+r
+file: testfixture.v
+initial begin //記得 source  nWave
+                |
+ncvlog: *W,NONPRT (testfixture.v,38|16): non-printable character (0xe8) ignored.
+initial begin //記得 source  nWave
+                 |
+ncvlog: *W,NONPRT (testfixture.v,38|17): non-printable character (0xa8) ignored.
+initial begin //記得 source  nWave
+                  |
+ncvlog: *W,NONPRT (testfixture.v,38|18): non-printable character (0x98) ignored.
+initial begin //記得 source  nWave
+                   |
+ncvlog: *W,NONPRT (testfixture.v,38|19): non-printable character (0xe5) ignored.
+initial begin //記得 source  nWave
+                    |
+ncvlog: *W,NONPRT (testfixture.v,38|20): non-printable character (0xbe) ignored.
+initial begin //記得 source  nWave
+                     |
+ncvlog: *W,NONPRT (testfixture.v,38|21): non-printable character (0x97) ignored.
+	module worklib.testfixture1:v
+		errors: 0, warnings: 6
+		Caching library 'worklib' ....... Done
+	Elaborating the design hierarchy:
+		Caching library 'worklib' ....... Done
+ncelab: *W,CUSFNF: The SDF file "SET_syn.sdf" not found..
+initial $sdf_annotate(`SDFFILE, u_set);
+                    |
+ncelab: *W,CUSSTI (./testfixture.v,35|20): This SDF System Task will be Ignored..
+	Building instance overlay tables: .................... Done
+	Generating native compiled code:
+		worklib.testfixture1:v <0x11b0bfd0>
+			streams:  11, words: 15123
+	Building instance specific data structures.
+	Loading native compiled code:     .................... Done
+	Design hierarchy summary:
+		                  Instances  Unique
+		Modules:                542     532
+		UDPs:                   247      12
+		Primitives:            1860      10
+		Timing outputs:         663     571
+		Registers:              174     181
+		Scalar wires:           834       -
+		Expanded wires:          16       3
+		Vectored wires:          48       -
+		Always blocks:            4       4
+		Initial blocks:           7       7
+		Cont. assignments:       45      15
+		Pseudo assignments:       5       5
+		Timing checks:         1978       -
+		Simulation timescale:   1ps
+	Writing initial simulation snapshot: worklib.BUFX2:v
+Loading snapshot worklib.BUFX2:v .................... Done
+*Verdi* Loading libsscore_ius152.so
+ncsim> source /usr/cad/cadence/INCISIV/cur/tools/inca/files/ncsimrc
+ncsim> run
+--------------------------- [ Function 4. Simulation START !! ] ---------------------------
+ Pattern           0 at Mode 3 is PASS !
+ Pattern           1 at Mode 3 is PASS !
+ Pattern           2 at Mode 3 is PASS !
+ Pattern           3 at Mode 3 is PASS !
+ Pattern           4 at Mode 3 is PASS !
+ Pattern           5 at Mode 3 is PASS !
+ Pattern           6 at Mode 3 is PASS !
+ Pattern           7 at Mode 3 is PASS !
+ Pattern           8 at Mode 3 is PASS !
+ Pattern           9 at Mode 3 is PASS !
+ Pattern          10 at Mode 3 is PASS !
+ Pattern          11 at Mode 3 is PASS !
+ Pattern          12 at Mode 3 is PASS !
+ Pattern          13 at Mode 3 is PASS !
+ Pattern          14 at Mode 3 is PASS !
+ Pattern          15 at Mode 3 is PASS !
+ Pattern          16 at Mode 3 is PASS !
+ Pattern          17 at Mode 3 is PASS !
+ Pattern          18 at Mode 3 is PASS !
+ Pattern          19 at Mode 3 is PASS !
+ Pattern          20 at Mode 3 is PASS !
+ Pattern          21 at Mode 3 is PASS !
+ Pattern          22 at Mode 3 is PASS !
+ Pattern          23 at Mode 3 is PASS !
+ Pattern          24 at Mode 3 is PASS !
+ Pattern          25 at Mode 3 is PASS !
+ Pattern          26 at Mode 3 is PASS !
+ Pattern          27 at Mode 3 is PASS !
+ Pattern          28 at Mode 3 is PASS !
+ Pattern          29 at Mode 3 is PASS !
+ Pattern          30 at Mode 3 is PASS !
+ Pattern          31 at Mode 3 is PASS !
+ Pattern          32 at Mode 3 is PASS !
+ Pattern          33 at Mode 3 is PASS !
+ Pattern          34 at Mode 3 is PASS !
+ Pattern          35 at Mode 3 is PASS !
+ Pattern          36 at Mode 3 is PASS !
+ Pattern          37 at Mode 3 is PASS !
+ Pattern          38 at Mode 3 is PASS !
+ Pattern          39 at Mode 3 is PASS !
+ Pattern          40 at Mode 3 is PASS !
+ Pattern          41 at Mode 3 is PASS !
+ Pattern          42 at Mode 3 is PASS !
+ Pattern          43 at Mode 3 is PASS !
+ Pattern          44 at Mode 3 is PASS !
+ Pattern          45 at Mode 3 is PASS !
+ Pattern          46 at Mode 3 is PASS !
+ Pattern          47 at Mode 3 is PASS !
+ Pattern          48 at Mode 3 is PASS !
+ Pattern          49 at Mode 3 is PASS !
+ Pattern          50 at Mode 3 is PASS !
+ Pattern          51 at Mode 3 is PASS !
+ Pattern          52 at Mode 3 is PASS !
+ Pattern          53 at Mode 3 is PASS !
+ Pattern          54 at Mode 3 is PASS !
+ Pattern          55 at Mode 3 is PASS !
+ Pattern          56 at Mode 3 is PASS !
+ Pattern          57 at Mode 3 is PASS !
+ Pattern          58 at Mode 3 is PASS !
+ Pattern          59 at Mode 3 is PASS !
+ Pattern          60 at Mode 3 is PASS !
+ Pattern          61 at Mode 3 is PASS !
+ Pattern          62 at Mode 3 is PASS !
+ Pattern          63 at Mode 3 is PASS !
+--------------------------- Simulation FINISH !!---------------------------
+============================================================================
+
+ \(^o^)/ CONGRATULATIONS!!  The simulation result is PASS!!!
+
+============================================================================
+Simulation complete via $finish(1) at time 42290 NS + 0
+./testfixture.v:132 $finish;
+ncsim> exit
+TOOL:	ncverilog	15.20-s039: Exiting on Jul 15, 2020 at 11:34:43 CST  (total: 00:00:02)

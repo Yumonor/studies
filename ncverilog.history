@@ -1,0 +1,244 @@
+s1(14May2020:01:48:37):  ncverilog SET.v 
+s2(14May2020:01:49:09):  ncverilog testfixture.v +access+r 
+s3(14May2020:02:11:34):  ncverilog testfixture.v +access+r 
+s4(14May2020:02:12:39):  ncverilog testfixture.v +access+r 
+s5(14May2020:02:13:09):  ncverilog testfixture.v +access+r 
+s6(14May2020:02:14:53):  ncverilog testfixture.v +access+r 
+s7(14May2020:12:40:09):  ncverilog SET.v 
+s8(14May2020:18:28:45):  ncverilog testfixture.v +access+r 
+s9(14May2020:18:29:41):  ncverilog testfixture.v +access+r 
+s10(14May2020:21:45:59):  ncverilog testfixture.v +access+r 
+s11(14May2020:21:59:24):  ncverilog testfixture.v +access+r 
+s12(17May2020:10:05:35):  ncverilog testfixture.v +access+r 
+s13(17May2020:10:07:42):  ncverilog testfixture.v +access+r 
+s14(18May2020:18:15:13):  ncverilog testfixture.v +access+r 
+s15(18May2020:18:18:00):  ncverilog SET.v +access+r 
+s16(18May2020:18:19:15):  ncverilog SET.v +access+r 
+s17(18May2020:18:19:20):  ncverilog testfixture.v +access+r 
+s18(18May2020:18:20:46):  ncverilog testfixture.v +access+r 
+s19(18May2020:18:21:03):  ncverilog testfixture.v +access+r 
+s20(18May2020:18:25:08):  ncverilog testfixture.v +access+r 
+s21(18May2020:18:25:15):  ncverilog SET.v +access+r 
+s22(18May2020:18:27:36):  ncverilog SET.v +access+r 
+s23(18May2020:18:27:38):  ncverilog testfixture.v +access+r 
+s24(18May2020:18:30:33):  ncverilog testfixture.v +access+r 
+s25(18May2020:18:30:38):  ncverilog testfixture.v +access+r 
+s26(18May2020:18:31:19):  ncverilog testfixture.v +access+r 
+s27(19May2020:16:11:56):  ncverilog testfixture.v +access+r 
+s28(19May2020:16:13:44):  ncverilog testfixture.v +access+r 
+s29(19May2020:17:03:32):  ncverilog testfixture.v +access+r 
+s30(19May2020:17:07:33):  ncverilog testfixture.v +define+MD1 +access+r 
+s31(19May2020:17:07:46):  ncverilog testfixture.v +define+MD2 +access+r 
+s32(19May2020:17:07:52):  ncverilog testfixture.v +define+MD3 +access+r 
+s33(20May2020:10:17:14):  ncverilog testfixture.v +define+MD1 +access+r 
+s34(20May2020:10:33:43):  ncverilog testfixture.v +define+MD1 +access+r 
+s35(20May2020:10:35:19):  ncverilog testfixture.v +define+MD1 +access+r 
+s36(20May2020:10:36:34):  ncverilog testfixture.v +define+MD1 +access+r 
+s37(20May2020:10:38:27):  ncverilog testfixture.v +define+MD1 +access+r 
+s38(20May2020:10:38:42):  ncverilog testfixture.v +define+MD1 +access+r 
+s39(21May2020:00:10:37):  ncverilog testfixture.v +define+MD1 +access+r 
+s40(21May2020:00:21:02):  ncverilog testfixture.v +define+MD1 +access+r 
+s41(21May2020:00:23:14):  ncverilog testfixture.v +define+MD1 +access+r 
+s42(21May2020:00:30:34):  ncverilog testfixture.v +define+MD1 +access+r 
+s43(21May2020:00:47:37):  ncverilog testfixture.v +define+MD1 +access+r 
+s44(21May2020:00:51:57):  ncverilog testfixture.v +define+MD1 +access+r 
+s45(21May2020:00:55:14):  ncverilog testfixture.v +define+MD1 +access+r 
+s46(21May2020:01:00:22):  ncverilog testfixture.v +define+MD1 +access+r 
+s47(21May2020:01:00:26):  ncverilog testfixture.v +define+MD1 +access+r 
+s48(21May2020:01:02:45):  ncverilog testfixture.v +define+MD1 +access+r 
+s49(21May2020:01:02:50):  ncverilog testfixture.v +define+MD1 +access+r 
+s50(21May2020:01:12:17):  ncverilog testfixture.v +define+MD1 +access+r 
+s51(27May2020:13:06:51):  ncverilog SET.v +access+r 
+s52(27May2020:13:08:28):  ncverilog SET.v +access+r 
+s53(27May2020:13:23:52):  ncverilog SET.v +access+r 
+s54(27May2020:13:24:24):  ncverilog SET.v +access+r 
+s55(27May2020:14:07:30):  ncverilog SET.v +access+r 
+s56(27May2020:14:07:55):  ncverilog testfixture.v +define+MD1 +access+r 
+s57(27May2020:15:05:28):  ncverilog testfixture.v +define+MD1 +access+r 
+s58(27May2020:15:06:19):  ncverilog testfixture.v +define+MD1 +access+r 
+s59(30May2020:23:57:25):  ncverilog testfixture.v +define+MD1 +access+r 
+s60(01Jun2020:16:21:11):  ncverilog testfixture.v +define+MD1 +access+r 
+s61(01Jun2020:16:45:42):  ncverilog testfixture.v +define+MD1 +access+r 
+s62(01Jun2020:16:47:25):  ncverilog testfixture.v +define+MD1 +access+r 
+s63(01Jun2020:16:49:06):  ncverilog testfixture.v +define+MD1 +access+r 
+s64(01Jun2020:16:50:56):  ncverilog testfixture.v +define+MD1 +access+r 
+s65(01Jun2020:16:52:58):  ncverilog testfixture.v +define+MD1 +access+r 
+s66(01Jun2020:16:53:42):  ncverilog testfixture.v +define+MD1 +access+r 
+s67(01Jun2020:16:57:51):  ncverilog testfixture.v +define+MD1 +access+r 
+s68(01Jun2020:17:03:45):  ncverilog testfixture.v +define+MD1 +access+r 
+s69(01Jun2020:17:09:49):  ncverilog testfixture.v +define+MD1 +access+r 
+s70(01Jun2020:17:12:35):  ncverilog testfixture.v +define+MD1 +access+r 
+s71(01Jun2020:17:23:29):  ncverilog testfixture.v +define+MD1 +access+r 
+s72(01Jun2020:18:50:21):  ncverilog testfixture.v +define+MD1 +access+r 
+s73(01Jun2020:18:51:33):  ncverilog testfixture.v +define+MD1 +access+r 
+s74(01Jun2020:18:53:53):  ncverilog testfixture.v +define+MD1 +access+r 
+s75(01Jun2020:18:54:09):  ncverilog testfixture.v +define+MD1 +access+r 
+s76(01Jun2020:19:02:38):  ncverilog testfixture.v +define+MD1 +access+r 
+s77(01Jun2020:19:07:32):  ncverilog testfixture.v +define+MD1 +access+r 
+s78(01Jun2020:19:08:08):  ncverilog testfixture.v +define+MD1 +access+r 
+s79(01Jun2020:19:12:29):  ncverilog testfixture.v +define+MD1 +access+r 
+s80(01Jun2020:19:23:23):  ncverilog testfixture.v +define+MD1 +access+r 
+s81(01Jun2020:19:25:55):  ncverilog testfixture.v +define+MD1 +access+r 
+s82(01Jun2020:19:33:19):  ncverilog testfixture.v +define+MD1 +access+r 
+s83(01Jun2020:19:35:42):  ncverilog testfixture.v +define+MD1 +access+r 
+s84(01Jun2020:19:43:49):  ncverilog testfixture.v +define+MD1 +access+r 
+s85(01Jun2020:22:49:15):  ncverilog testfixture.v +define+MD1 +access+r 
+s86(01Jun2020:22:49:23):  ncverilog testfixture.v +define+MD1 +access+r 
+s87(01Jun2020:22:59:58):  ncverilog testfixture.v +define+MD1 +access+r 
+s88(01Jun2020:23:12:29):  ncverilog testfixture.v +define+MD1 +access+r 
+s89(01Jun2020:23:13:33):  ncverilog testfixture.v +define+MD1 +access+r 
+s90(01Jun2020:23:20:50):  ncverilog testfixture.v +define+MD1 +access+r 
+s91(01Jun2020:23:21:57):  ncverilog testfixture.v +define+MD1 +access+r 
+s92(01Jun2020:23:27:05):  ncverilog testfixture.v +define+MD1 +access+r 
+s93(01Jun2020:23:49:32):  ncverilog testfixture.v +define+MD1 +access+r 
+s94(02Jun2020:00:08:51):  ncverilog testfixture.v +define+MD1 +access+r 
+s95(02Jun2020:00:09:16):  ncverilog testfixture.v +define+MD1 +access+r 
+s96(02Jun2020:00:15:06):  ncverilog testfixture.v +define+MD1 +access+r 
+s97(02Jun2020:00:21:06):  ncverilog testfixture.v +define+MD1 +access+r 
+s98(02Jun2020:00:39:38):  ncverilog testfixture.v +define+MD1 +access+r 
+s99(02Jun2020:00:40:42):  ncverilog testfixture.v +define+MD2 +access+r 
+s100(02Jun2020:00:40:58):  ncverilog testfixture.v +define+MD0 +access+r 
+s101(02Jun2020:00:41:05):  ncverilog testfixture.v +define+MD1 +access+r 
+s102(02Jun2020:00:41:12):  ncverilog testfixture.v +define+MD4 +access+r 
+s103(02Jun2020:00:41:20):  ncverilog testfixture.v +define+MD3 +access+r 
+s104(02Jun2020:00:41:29):  ncverilog testfixture.v +define+MD1 +access+r 
+s105(02Jun2020:00:43:54):  ncverilog testfixture.v +define+MD1 +access+r 
+s106(02Jun2020:00:46:45):  ncverilog testfixture.v +define+MD1 +access+r 
+s107(02Jun2020:00:57:35):  ncverilog testfixture.v +define+MD1 +access+r 
+s108(02Jun2020:00:59:29):  ncverilog testfixture.v +define+MD1 +access+r 
+s109(02Jun2020:01:03:47):  ncverilog testfixture.v +define+MD1 +access+r 
+s110(02Jun2020:01:11:56):  ncverilog testfixture.v +define+MD1 +access+r 
+s111(02Jun2020:01:27:10):  ncverilog testfixture.v +define+MD1 +access+r 
+s112(02Jun2020:01:28:41):  ncverilog testfixture.v +define+MD1 +access+r 
+s113(02Jun2020:01:29:24):  ncverilog testfixture.v +define+MD1 +access+r 
+s114(02Jun2020:01:39:24):  ncverilog testfixture.v +define+MD1 +access+r 
+s115(02Jun2020:01:50:26):  ncverilog testfixture.v +define+MD1 +access+r 
+s116(02Jun2020:01:51:36):  ncverilog testfixture.v +define+MD1 +access+r 
+s117(02Jun2020:01:51:53):  ncverilog testfixture.v +define+MD1 +access+r 
+s118(02Jun2020:01:52:40):  ncverilog testfixture.v +define+MD1 +access+r 
+s119(02Jun2020:01:53:12):  ncverilog testfixture.v +define+MD1 +access+r 
+s120(02Jun2020:01:53:23):  ncverilog testfixture.v +define+MD1 +access+r 
+s121(02Jun2020:02:12:56):  ncverilog testfixture.v +define+MD1 +access+r 
+s122(02Jun2020:02:14:32):  ncverilog testfixture.v +define+MD1 +access+r 
+s123(02Jun2020:02:15:50):  ncverilog testfixture.v +define+MD1 +access+r 
+s124(02Jun2020:02:16:03):  ncverilog testfixture.v +define+MD1 +access+r 
+s125(02Jun2020:02:16:24):  ncverilog testfixture.v +define+MD1 +access+r 
+s126(02Jun2020:02:16:36):  ncverilog testfixture.v +define+MD1 +access+r 
+s127(02Jun2020:02:16:48):  ncverilog testfixture.v +define+MD1 +access+r 
+s128(02Jun2020:02:17:09):  ncverilog testfixture.v +define+MD1 +access+r 
+s129(02Jun2020:02:17:23):  ncverilog testfixture.v +define+MD1 +access+r 
+s130(02Jun2020:02:32:21):  ncverilog testfixture.v +define+MD1 +access+r 
+s131(03Jul2020:14:11:28):  ncverilog testfixture.v +define+MD1 +access+r 
+s132(03Jul2020:14:11:37):  ncverilog testfixture.v +define+MD1 +access+r 
+s133(03Jul2020:14:11:54):  ncverilog testfixture.v +define+MD2 +access+r 
+s134(03Jul2020:14:12:06):  ncverilog testfixture.v +define+MD3 +access+r 
+s135(03Jul2020:14:12:15):  ncverilog testfixture.v +define+MD4 +access+r 
+s136(03Jul2020:14:12:22):  ncverilog testfixture.v +define+MD0 +access+r 
+s137(03Jul2020:14:12:30):  ncverilog testfixture.v +define+MD1 +access+r 
+s138(03Jul2020:14:12:36):  ncverilog testfixture.v +define+MD2 +access+r 
+s139(03Jul2020:14:26:11):  ncverilog testfixture.v +define+MD1 +access+r 
+s140(03Jul2020:14:26:27):  ncverilog testfixture.v +define+MD2 +access+r 
+s141(03Jul2020:14:26:36):  ncverilog testfixture.v +define+MD3 +access+r 
+s142(03Jul2020:14:26:46):  ncverilog testfixture.v +define+MD0 +access+r 
+s143(03Jul2020:14:26:53):  ncverilog testfixture.v +define+MD4 +access+r 
+s144(03Jul2020:14:27:20):  ncverilog testfixture.v +define+MD1 +access+r 
+s145(03Jul2020:14:29:31):  ncverilog testfixture.v +define+MD1 +access+r 
+s146(03Jul2020:14:30:14):  ncverilog testfixture.v +define+MD1 +access+r 
+s147(03Jul2020:14:31:04):  ncverilog testfixture.v +define+MD1 +access+r 
+s148(03Jul2020:14:31:15):  ncverilog testfixture.v +define+MD2 +access+r 
+s149(03Jul2020:14:31:20):  ncverilog testfixture.v +define+MD3 +access+r 
+s150(03Jul2020:14:31:25):  ncverilog testfixture.v +define+MD4 +access+r 
+s151(03Jul2020:14:32:52):  ncverilog testfixture.v +define+MD1 +access+r 
+s152(03Jul2020:14:38:38):  ncverilog testfixture.v +define+MD1 +access+r 
+s153(03Jul2020:14:39:14):  ncverilog testfixture.v +define+MD1 +access+r 
+s154(03Jul2020:14:43:00):  ncverilog testfixture.v +define+MD1 +access+r 
+s155(03Jul2020:14:44:11):  ncverilog testfixture.v +define+MD1 +access+r 
+s156(03Jul2020:14:44:44):  ncverilog testfixture.v +define+MD1 +access+r 
+s157(03Jul2020:14:45:18):  ncverilog testfixture.v +define+MD1 +access+r 
+s158(03Jul2020:14:45:22):  ncverilog testfixture.v +define+MD4 +access+r 
+s159(03Jul2020:14:45:27):  ncverilog testfixture.v +define+MD3 +access+r 
+s160(06Jul2020:14:57:44):  ncverilog testfixture.v +define+MD1 +access+r 
+s161(06Jul2020:14:57:53):  ncverilog testfixture.v +define+MD1 +access+r 
+s162(06Jul2020:15:08:57):  ncverilog testfixture.v +define+MD1 +access+r 
+s163(06Jul2020:15:13:58):  ncverilog testfixture.v +define+MD1 +access+r 
+s164(06Jul2020:15:17:39):  ncverilog testfixture.v +define+MD1 +access+r 
+s165(06Jul2020:15:18:00):  ncverilog testfixture.v +define+MD2 +access+r 
+s166(06Jul2020:15:18:05):  ncverilog testfixture.v +define+MD3 +access+r 
+s167(06Jul2020:15:18:13):  ncverilog testfixture.v +define+MD4 +access+r 
+s168(06Jul2020:15:18:25):  ncverilog testfixture.v +define+MD1 +access+r 
+s169(06Jul2020:15:20:06):  ncverilog testfixture.v +define+MD2 +access+r 
+s170(06Jul2020:15:25:54):  ncverilog testfixture.v +define+MD1 +access+r 
+s171(06Jul2020:15:26:05):  ncverilog testfixture.v +define+MD2 +access+r 
+s172(06Jul2020:15:31:02):  ncverilog testfixture.v +define+MD2 +access+r 
+s173(06Jul2020:15:34:16):  ncverilog testfixture.v +define+MD2 +access+r 
+s174(06Jul2020:15:34:32):  ncverilog testfixture.v +define+MD2 +access+r 
+s175(06Jul2020:15:38:59):  ncverilog testfixture.v +define+MD2 +access+r 
+s176(06Jul2020:15:40:33):  ncverilog testfixture.v +define+MD3 +access+r 
+s177(06Jul2020:15:40:45):  ncverilog testfixture.v +define+MD4 +access+r 
+s178(08Jul2020:13:54:03):  ncverilog testfixture.v +define+MD2 +access+r 
+s179(08Jul2020:13:54:10):  ncverilog testfixture.v +define+MD1 +access+r 
+s180(08Jul2020:13:54:23):  ncverilog testfixture.v +define+MD1 +access+r 
+s181(08Jul2020:13:54:46):  ncverilog testfixture.v +define+MD1 +access+r 
+s182(08Jul2020:15:30:51):  ncverilog testfixture.v +define+MD1 +access+r 
+s183(08Jul2020:15:33:49):  ncverilog testfixture.v +define+MD1 +access+r 
+s184(08Jul2020:15:34:22):  ncverilog testfixture.v +define+MD1 +access+r 
+s185(08Jul2020:15:35:09):  ncverilog testfixture.v +define+MD1 +access+r 
+s186(08Jul2020:15:35:55):  ncverilog testfixture.v +define+MD1 +access+r 
+s187(08Jul2020:15:36:29):  ncverilog testfixture.v +define+MD1 +access+r 
+s188(08Jul2020:15:37:12):  ncverilog testfixture.v +define+MD1 +access+r 
+s189(08Jul2020:15:37:55):  ncverilog testfixture.v +define+MD1 +access+r 
+s190(08Jul2020:15:38:24):  ncverilog testfixture.v +define+MD1 +access+r 
+s191(08Jul2020:15:51:05):  ncverilog testfixture.v +define+MD1 +access+r 
+s192(08Jul2020:15:51:13):  ncverilog testfixture.v +define+MD0 +access+r 
+s193(08Jul2020:15:53:03):  ncverilog testfixture.v +define+MD0 +access+r 
+s194(08Jul2020:15:54:07):  ncverilog testfixture.v +define+MD1 +access+r 
+s195(08Jul2020:15:54:15):  ncverilog testfixture.v +define+MD1 +access+r 
+s196(08Jul2020:16:15:57):  ncverilog testfixture.v +define+MD1 +access+r 
+s197(08Jul2020:16:22:56):  ncverilog testfixture.v +define+MD1 +access+r 
+s198(08Jul2020:16:28:35):  ncverilog testfixture.v +define+MD1 +access+r 
+s199(08Jul2020:16:43:01):  ncverilog testfixture.v +define+MD1 +access+r 
+s200(13Jul2020:11:35:49):  ncverilog testfixture.v +define+MD1 +access+r 
+s201(13Jul2020:11:35:56):  ncverilog testfixture.v +define+MD1 +access+r 
+s202(13Jul2020:11:51:47):  ncverilog testfixture.v +define+MD1 +access+r 
+s203(13Jul2020:11:56:35):  ncverilog testfixture.v +define+MD1 +access+r 
+s204(13Jul2020:11:56:49):  ncverilog testfixture.v +define+MD1 +access+r 
+s205(13Jul2020:11:58:12):  ncverilog testfixture.v +define+MD2 +access+r 
+s206(13Jul2020:11:58:22):  ncverilog testfixture.v +define+MD3 +access+r 
+s207(13Jul2020:11:58:36):  ncverilog testfixture.v +define+MD1 +access+r 
+s208(13Jul2020:12:01:05):  ncverilog testfixture.v +define+MD1 +access+r 
+s209(13Jul2020:12:02:45):  ncverilog testfixture.v +define+MD1 +access+r 
+s210(13Jul2020:12:03:00):  ncverilog testfixture.v +define+MD3 +access+r 
+s211(13Jul2020:12:03:09):  ncverilog testfixture.v +define+MD2 +access+r 
+s212(13Jul2020:12:03:23):  ncverilog testfixture.v +define+MD1 +access+r 
+s213(13Jul2020:12:06:05):  ncverilog testfixture.v +define+MD1 +access+r 
+s214(13Jul2020:12:22:13):  ncverilog testfixture.v +define+MD1 +access+r 
+s215(13Jul2020:12:42:03):  ncverilog testfixture.v +define+MD1 +access+r 
+s216(13Jul2020:12:44:11):  ncverilog testfixture.v +define+MD1 +access+r 
+s217(13Jul2020:12:52:24):  ncverilog testfixture.v +define+MD1 +access+r 
+s218(13Jul2020:12:53:10):  ncverilog testfixture.v +define+MD1 +access+r 
+s219(13Jul2020:13:05:02):  ncverilog testfixture.v +define+MD1 +access+r 
+s220(13Jul2020:13:05:07):  ncverilog testfixture.v +define+MD2 +access+r 
+s221(13Jul2020:13:05:11):  ncverilog testfixture.v +define+MD3 +access+r 
+s222(13Jul2020:13:05:19):  ncverilog testfixture.v +define+MD4 +access+r 
+s223(13Jul2020:15:21:20):  ncverilog testfixture.v +define+MD1 +access+r 
+s224(13Jul2020:15:21:26):  ncverilog testfixture.v +define+MD2 +access+r 
+s225(13Jul2020:15:21:33):  ncverilog testfixture.v +define+MD3 +access+r 
+s226(13Jul2020:15:21:38):  ncverilog testfixture.v +define+MD4 +access+r 
+s227(13Jul2020:15:35:15):  ncverilog testfixture.v +define+MD1 +access+r 
+s228(15Jul2020:09:52:53):  ncverilog testfixture.v +define+MD1 +access+r 
+s229(15Jul2020:09:53:42):  ncverilog testfixture.v +define+MD1 +access+r 
+s230(15Jul2020:09:53:49):  ncverilog testfixture.v +define+MD2 +access+r 
+s231(15Jul2020:09:53:55):  ncverilog testfixture.v +define+MD3 +access+r 
+s232(15Jul2020:09:54:02):  ncverilog testfixture.v +define+MD4 +access+r 
+s233(15Jul2020:11:18:55):  ncverilog testfixture.v +define+MD1 +access+r 
+s234(15Jul2020:11:19:07):  ncverilog testfixture.v +define+MD2 +access+r 
+s235(15Jul2020:11:19:14):  ncverilog testfixture.v +define+MD3 +access+r 
+s236(15Jul2020:11:19:20):  ncverilog testfixture.v +define+MD4 +access+r 
+s237(15Jul2020:11:28:05):  ncverilog testfixture.v +define+MD1 +access+r 
+s238(15Jul2020:11:28:09):  ncverilog testfixture.v +define+MD2 +access+r 
+s239(15Jul2020:11:28:14):  ncverilog testfixture.v +define+MD3 +access+r 
+s240(15Jul2020:11:28:19):  ncverilog testfixture.v +define+MD4 +access+r 
+s241(15Jul2020:11:34:27):  ncverilog testfixture.v +define+MD1 +access+r 
+s242(15Jul2020:11:34:32):  ncverilog testfixture.v +define+MD2 +access+r 
+s243(15Jul2020:11:34:36):  ncverilog testfixture.v +define+MD3 +access+r 
+s244(15Jul2020:11:34:41):  ncverilog testfixture.v +define+MD4 +access+r 
